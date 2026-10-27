@@ -23,6 +23,16 @@ Plan talents, check raid buffs and share what you discover.</p>
 - **Follow the guild race.** See [guilds ranked by raid progression](https://everloot.app/guilds?utm_source=github&utm_medium=referral&utm_campaign=profile), based on kills confirmed by uploads from two guild members.
 - **Install the addon.** Get it on [CurseForge](https://www.curseforge.com/wow/addons/everloot) or [everloot.app](https://everloot.app/addon?utm_source=github&utm_medium=referral&utm_campaign=profile). WoW: Forever launches on November 4, so live-game checks are still to come; report what works and what breaks.
 
+## Use Everloot with AI
+
+Everloot runs a read-only [MCP server](https://everloot.app/docs/mcp?utm_source=github&utm_medium=referral&utm_campaign=profile), so an AI assistant can look up items, NPCs, quests, prices and guilds and cite where each fact came from.
+
+```bash
+claude mcp add --transport http everloot https://everloot.app/mcp/public
+```
+
+Any MCP client works with `https://everloot.app/mcp/public`. It is listed in the [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.everloot) as `app.everloot/knowledge`. No assistant? [Ask Everloot](https://everloot.app/chat?utm_source=github&utm_medium=referral&utm_campaign=profile) with your own model key, which stays in your browser.
+
 ## Help make it better
 
 Try a talent build or a raid roster, then tell us which step was confusing or which result looked wrong.
