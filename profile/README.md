@@ -20,7 +20,8 @@ Plan talents, check raid buffs and share what you discover.</p>
 - **Plan your points.** Choose a class, spend talent points and copy a link to share both talent sets.
 - **Check your group.** Fill raid slots, see buff coverage and share the same roster with your guild.
 - **Explore the database.** Look up [items, NPCs and more](https://everloot.app/database). Player observations build the evidence; game-file data stays labelled until confirmed in play.
-- **Help test the addon.** [Download and installation instructions](https://everloot.app/addon). Live-game verification is still pending; report what works and what breaks.
+- **Follow the guild race.** See [guilds ranked by raid progression](https://everloot.app/guilds?utm_source=github&utm_medium=referral&utm_campaign=profile), based on kills confirmed by uploads from two guild members.
+- **Install the addon.** Get it on [CurseForge](https://www.curseforge.com/wow/addons/everloot) or [everloot.app](https://everloot.app/addon?utm_source=github&utm_medium=referral&utm_campaign=profile). WoW: Forever launches on November 4, so live-game checks are still to come; report what works and what breaks.
 
 ## Help make it better
 
